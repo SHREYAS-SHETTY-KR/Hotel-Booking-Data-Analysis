@@ -1,2 +1,6 @@
-# Hotel-Booking
-Data analysis on Hotel Booking
+![image](https://github.com/Shreyas-028/Hotel-Booking/assets/79562771/51850b09-acfb-4617-8755-59e0eec9a701)
+![image](https://github.com/Shreyas-028/Hotel-Booking/assets/79562771/9e89a17f-8f2d-4af5-9d2f-40b1856d4a81)
+![image](https://github.com/Shreyas-028/Hotel-Booking/assets/79562771/ad8f720a-c2b7-45a3-b73d-6a8151583f38)
+![image](https://github.com/Shreyas-028/Hotel-Booking/assets/79562771/b41b563d-a7a9-4bc4-97d0-16b66f79b10c)
+![image](https://github.com/Shreyas-028/Hotel-Booking/assets/79562771/fa9d28ac-e175-4c88-ada6-5ed218ed99da)
+![image](https://github.com/Shreyas-028/Hotel-Booking/assets/79562771/7ff5f6c6-4ede-4f69-9aa5-23c7609df143)
