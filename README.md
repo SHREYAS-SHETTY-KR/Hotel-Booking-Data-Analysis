@@ -1,2 +1,2 @@
 # Hotel-Booking
-Data analysis of Hotel Booking
+Data analysis on Hotel Booking
